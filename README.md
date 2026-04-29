@@ -5,6 +5,7 @@ A collection of my public projects, grouped by what they are.
 ## 🏗️ Backend & Distributed Systems
 | Project | Stack | Description |
 |---|---|---|
+| [event-hub](https://github.com/QBERT18/event-hub) | Java 21 · Spring Boot 4 · PostgreSQL · GraphQL · Stripe · Gemini AI | Multi-module microservices platform for event management — REST + GraphQL events, ticket booking, Stripe payments and Gemini-powered recommendations. |
 | [jobcrawler](https://github.com/QBERT18/jobcrawler) | Go · Kafka · Postgres · Elasticsearch · Redis | Distributed pipeline that crawls StepStone & XING, deduplicates and normalizes postings through Kafka, and serves them via a REST API. |
 | [Apply-tude](https://github.com/QBERT18/Apply-tude) | React Router 7 · shadcn/ui · Redis · Ollama | Self-hostable job-application tracker with AI-assisted entry and a Redis-cached dashboard. |
 | [local-llm](https://github.com/QBERT18/local-llm) | Python · Flask · Ollama · Docker | Streaming chat API powered by a local Ollama LLM, orchestrated with Docker Compose. |
